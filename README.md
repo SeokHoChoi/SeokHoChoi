@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20메타몽!&fontSize=70&color=0:8871e5,100:b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20메타몽!&fontSize=70&color=_custom_gradient)
 
 <hr/>
 
