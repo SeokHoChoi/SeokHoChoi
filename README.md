@@ -1,5 +1,5 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Frontend-Developer&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Frontend-Developer&fontSize=70&color=0:0000FF,100:0000FF&stroke=0000FF)
+![sea-style](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Frontend-Developer&fontSize=70&color=gradient&gradient=0:0077be,100:0099cc&stroke=0077be)
 
 <hr/>
 
