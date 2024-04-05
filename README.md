@@ -1,6 +1,7 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20메타몽!&fontSize=70&color=0:8871e5,100:b678c4)
 
 <hr/>
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20%EB%A9%94%ED%83%80%EB%AA%AC!&fontSize=70&color=0:8871e5,100:b678c4)
 
 <!--
 **SeokHoChoi/SeokHoChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
