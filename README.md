@@ -6,7 +6,6 @@
 
 <hr/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokho9473)](https://solved.ac/seokho9473/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=seokho9473&theme=dark)
 
 
