@@ -1,9 +1,8 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Frontend&fontSize=70&color=gradient&gradient=0:000080,100:0000FF&stroke=0000FF&fontColor=FFFFFF)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Frontend&fontSize=50&color=gradient&gradient=0:000080,100:0000FF&stroke=0000FF&fontColor=FFFFFF)
 
 <hr/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seokho9473@gmail.com)](mailto:seokho9473@gmail.com)
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:test@test.com)
 
 <!--
 **SeokHoChoi/SeokHoChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
