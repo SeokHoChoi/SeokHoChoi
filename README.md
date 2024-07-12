@@ -2,7 +2,8 @@
 
 <hr/>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seokho9473@gmail.com)](seokho9473@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seokho9473@gmail.com)](mailto:seokho9473@gmail.com)
+
 
 <!--
 **SeokHoChoi/SeokHoChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
