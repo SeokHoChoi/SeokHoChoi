@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=50&text=Frontend&fontSize=10&color=gradient&gradient=0:000080,100:0000FF&stroke=0000FF&fontColor=FFFFFF)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=100&text=Frontend&fontSize=50&color=gradient&gradient=0:000080,100:0000FF&stroke=0000FF&fontColor=FFFFFF)
 
 <hr/>
 
