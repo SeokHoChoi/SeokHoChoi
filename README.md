@@ -1,6 +1,5 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=Frontend&fontSize=50&color=gradient&gradient=0:000080,100:0000FF&stroke=0000FF&fontColor=FFFFFF)
 
-<hr/>
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <div class="markdown-heading" dir="auto">
