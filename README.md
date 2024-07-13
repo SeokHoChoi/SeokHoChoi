@@ -24,11 +24,6 @@
   </p>
 </article>
 
-![SeokHoChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokHoChoi&show_icons=true&theme=cobalt)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokho9473)](https://solved.ac/seokho9473/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=seokho9473&theme=dark)
-
-
 <!--
 **SeokHoChoi/SeokHoChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
