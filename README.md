@@ -11,7 +11,7 @@
     </a>
   </div>
   <ul dir="auto">
-    <li>👨🏻‍💻 Software Engineer at @LET'S HACK (Jan 2022 ~ 2024)</li>
+    <li>👨🏻‍💻 Software Engineer at @LET'S HACK (Mar. 2022 ~ Feb. 2024)</li>
     <li>🚀 Frontend</li>
     <li>💙 JavaScript, TypeScript</li>
     <li>✉️ <a href="mailto:seokho9473@gmail.com">seokho9473@gmail.com</a></li>
