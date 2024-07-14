@@ -18,9 +18,7 @@
     <li>✉️ <a href="mailto:seokho9473@gmail.com">seokho9473@gmail.com</a></li>
   </ul>
   <p dir="auto">
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FSeokHoChoi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-    </a>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FSeokHoChoi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     <a href="https://www.instagram.com/c__ppg/">
       <img src="https://i.ibb.co/Cw3SnT0/Group-11.png" alt="Group-11" border="0">
     </a>
