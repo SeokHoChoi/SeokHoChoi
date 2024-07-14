@@ -14,7 +14,7 @@
     <li>👨🏻‍💻 Software Engineer at @LET'S HACK (Mar. 2022 ~ Feb. 2024)</li>
     <li>🚀 Frontend</li>
     <li>💙 JavaScript, TypeScript</li>
-    <li>📚 <a href="https://ppogeul.tistory.com/">https://ppogeul.tistory.com/</a></li>
+    <li>📚 <a href="https://ppogeul.tistory.com/">Dorong’s development blog - Tistory</a></li>
     <li>✉️ <a href="mailto:seokho9473@gmail.com">seokho9473@gmail.com</a></li>
   </ul>
   <p dir="auto">
