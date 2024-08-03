@@ -14,7 +14,7 @@
     <li>
       👨🏻‍💻 Software Engineer
       <ul>
-        <li>at @Hamill (Aug. 2024.08 ~ Present)</li>
+        <li>at @HAMILL (Aug. 2024.08 ~ Present)</li>
         <li>at @LET'S HACK (Mar. 2022 ~ Feb. 2024)</li>
       </ul>
     </li>
