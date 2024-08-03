@@ -11,7 +11,13 @@
     </a>
   </div>
   <ul dir="auto">
-    <li>👨🏻‍💻 Software Engineer at @LET'S HACK (Mar. 2022 ~ Feb. 2024)</li>
+    <li>
+      👨🏻‍💻 Software Engineer
+      <ul>
+        <li>at @Hamill (Aug. 2024.08 ~ Present)</li>
+        <li>at @LET'S HACK (Mar. 2022 ~ Feb. 2024)</li>
+      </ul>
+    </li>
     <li>🚀 Frontend</li>
     <li>💙 JavaScript, TypeScript</li>
     <li>📚 <a href="https://ppogeul.tistory.com/">Dorong’s development blog - Tistory</a></li>
