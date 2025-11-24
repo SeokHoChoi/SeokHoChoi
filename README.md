@@ -14,7 +14,7 @@
     <li>🚀 
       <!-- Frontend |  -->
       Mar. 2022 - Present</li>
-    <li>💙 JavaScript, TypeScript</li>
+    <!-- <li>💙 JavaScript, TypeScript</li> -->
     <li>🔬 Enthusiastic about Infrastructure, AI, and Backend - Let's discuss!</li>
     <li>📚 <a href="https://ppogeul.tistory.com/">Dorong’s development blog - Tistory</a></li>
     <li>✉️ <a href="mailto:seokho9473@gmail.com">seokho9473@gmail.com</a></li>
