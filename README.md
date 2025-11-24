@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=Frontend&fontSize=50&color=gradient&gradient=0:000080,100:0000FF&stroke=0000FF&fontColor=FFFFFF)
+<!-- ![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=Frontend&fontSize=50&color=gradient&gradient=0:000080,100:0000FF&stroke=0000FF&fontColor=FFFFFF) -->
 
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
@@ -11,7 +11,9 @@
     </a>
   </div>
   <ul dir="auto">
-    <li>🚀 Frontend | Mar. 2022 - Present</li>
+    <li>🚀 
+      <!-- Frontend |  -->
+      Mar. 2022 - Present</li>
     <li>💙 JavaScript, TypeScript</li>
     <li>🔬 Enthusiastic about Infrastructure, AI, and Backend - Let's discuss!</li>
     <li>📚 <a href="https://ppogeul.tistory.com/">Dorong’s development blog - Tistory</a></li>
