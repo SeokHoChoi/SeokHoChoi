@@ -14,10 +14,8 @@
     <li>🚀 
       Frontend | Mar. 2022 - Present</li>
     <li>💙 JavaScript, TypeScript</li>
-    <li>🔬 Enthusiastic about Infrastructure, AI, and Backend - Let's discuss!</li>
     <li>📚 <a href="https://ppogeul.tistory.com/">Dorong’s development blog - Tistory</a></li>
     <li>✉️ <a href="mailto:seokho9473@gmail.com">seokho9473@gmail.com</a></li>
-    <li>🎓 B.S. in Electronic Engineering</li>
   </ul>
   <p dir="auto">
     <a href="https://www.instagram.com/c__ppg/"><img src="https://i.ibb.co/Yp2CZjW/instarr.png" alt="instagram" border="0" title="If you're curious about me, give me a follow! I'll follow back too!"></a>
